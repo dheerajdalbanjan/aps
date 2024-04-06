@@ -3,7 +3,7 @@
 - **Course Name** 
     Algorithmic Problem Solving(APS)
 - **Course Code**
-    19ECSC201 and 19ECSP201
+    23ECSE309
 - **Course Instructor**
     Prakash Hegade
 - **University**
