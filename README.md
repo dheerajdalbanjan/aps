@@ -1,11 +1,12 @@
-# aps
-Portfolio for APS-2024. KLE Technological University
+# E-Commerce Portfolio
 
-### Course Name
-    Algorithmic Problem Solving
-### Course Code
+- **Course Name** 
+    Algorithmic Problem Solving(APS)
+- **Course Code**
     19ECSC201 and 19ECSP201
-### Course Instructor
+- **Course Instructor**
     Prakash Hegade
-### University
-    KLE Technological University, Hubballi-31 
+- **University**
+    KLE Technological University, Hubballi-31
+
+<hr />
